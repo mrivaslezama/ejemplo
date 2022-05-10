@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Political scientist, bilingual spanish english; linux user, selftaught programmer (html, css, javascript, bootstrap, python, django, ruby, ruby ​​on rails, git, bash, jekyll and hugo). Interested in research, social and political studies, I spend time reading the Bible and learning about archaeology.
+about_me_description: Political scientist, bilingual spanish english; linux user, selftaught programmer (html, css, javascript, bootstrap, python, django, ruby, ruby ​​on rails, git, bash, jekyll and hugo). Interested in research, social and political studies, I spend time reading the Bible and learning about programming.
 
 
 # SKILLS SECTION
@@ -84,7 +84,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: I look forward to working with you and if you have any concerns, questions or ideas please feel free to get in touch with me directly at any time. <a class="highlight-link" href="https://mrivaslezama.github.io/cv/" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: I look forward for new projects and if you have any concerns, questions or ideas please feel free to get in touch with me directly at any time. <a class="highlight-link" href="https://mrivaslezama.github.io/cv/" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
