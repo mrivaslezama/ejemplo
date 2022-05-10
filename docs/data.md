@@ -2,10 +2,10 @@
 
 ## projects.yml
 
-* `name`: Name of your project
-* `descr`: Description of your project
-* `demo`: Link to your project
-* `tags`: List of technologies you used in your projects
+* `name`: tuferrexpressrr
+* `descr`: I havee been working on this first web site,
+* `demo`: https://tuferrexpressrr.github.io/tuferrexpressrr.cl/#
+* `tags`: html, css, javascript, bootstrap, github
 
 Example of a project:
 
@@ -14,10 +14,11 @@ Example of a project:
   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Css
+    - tag: Js
+    - tag: Ruby on Rails
+    - tag: Bootstrap
+  #  html, css, javascript, bootstrap, python, django, ruby, ruby ​​on rails, git, bash, jekyll and hugo
 ```
 
 ## skills-frameworks.yml
@@ -68,12 +69,12 @@ Example of a dev tool:
 Example of a timeline entry:
 
 ```yml
-- title: airbnb
+- title: tuferrexpressrr
   title-url: https://example.com/
-  date: Sep 2019 - Present
+  date: En 2022 - Present
   subtitle: Fullstack Developer
   tags:
-    - tag: React
+    - tag: HTML
     - tag: Javascript
     - tag: Ruby
     - tag: Rails
